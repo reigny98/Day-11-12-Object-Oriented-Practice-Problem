@@ -1,0 +1,5 @@
+C:\Users\churchill paul\source\repos\day 11&12\Oop Concept\Oop Concept\obj\Debug\net5.0\Oop Concept.csproj.AssemblyReference.cache
+C:\Users\churchill paul\source\repos\day 11&12\Oop Concept\Oop Concept\obj\Debug\net5.0\Oop Concept.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\churchill paul\source\repos\day 11&12\Oop Concept\Oop Concept\obj\Debug\net5.0\Oop Concept.AssemblyInfoInputs.cache
+C:\Users\churchill paul\source\repos\day 11&12\Oop Concept\Oop Concept\obj\Debug\net5.0\Oop Concept.AssemblyInfo.cs
+C:\Users\churchill paul\source\repos\day 11&12\Oop Concept\Oop Concept\obj\Debug\net5.0\Oop Concept.csproj.CoreCompileInputs.cache
